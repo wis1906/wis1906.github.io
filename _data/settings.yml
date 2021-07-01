@@ -111,10 +111,9 @@ skills:
 experience-title: Experience
 experience:
 - {name: 게임 개발 협업, icon: 'icon-1.png', date: '2020.07 - 2021.12', organization: 'Funnyeve',
-detail: '인지도가 높은 캐릭터를 보유한 회사 `퍼니이브`와 협업 계약을 맺고 모바일게임 공동 개발을 수행하였습니다.\
-저는 `기획, 프로그래밍` 업무를 담당하였고, 회사는 `기획, 디자인, 유통` 업무를 담당하였습니다.\
-게임 속 모든 프로그램 코드는 제가 직접 설계하였습니다. 기획은 공동으로 담당하여서 진행하였으며,\
-디자인의 경우 일부만 제가 수행하고, 대부분은 회사에서 담담하였습니다.'}
+detail: '인지도가 높은 캐릭터를 보유한 회사 `퍼니이브`와 협업 계약을 맺고 모바일게임 공동 개발을 수행하였습니다. 저는 `기획, 프로그래밍` 업무를 담당하였고, 회사는 `기획, 디자인, 유통` 업무를 담당하였습니다. 게임 속 모든 프로그램 코드는 제가 직접 설계하였습니다. 기획은 공동으로 담당하여서 진행하였으며, 디자인의 경우 일부만 제가 수행하고, 대부분은 회사에서 담담하였습니다.'}
+- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
+- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
 
 
 #-------------------------------
