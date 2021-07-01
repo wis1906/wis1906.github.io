@@ -128,8 +128,24 @@ education:
 
 award-title: Awards
 award:
-- {name: <strong>공학 학사</strong>, date: '2015.03', detail: '인천대학교'}
-- {name: <strong>공학 석사</strong>, date: '2020.03', detail: '인천대학교'}
+- {name: <strong>우수논문상</strong>, date: '2021', organization: '한국게임학회',
+detail: '`실내 구면 파노라마에서의 볼륨 검출을 통한 AR 게임 공간 구성`에 대한 논문으로 2021년도 한국게임학회 춘계학술발표대회에서 우수논문상을 수상함.'}
+- {name: <strong>인천대를 빛낸 인천대 학생 표창장</strong>, date: '2020', organization: '인천대학교',
+detail: '다회의 논문 개제와 논문상 수상 실적을 인정받아 인천대를 대표하는 학생으로 선별되어 표창장을 수상함.'}
+- {name: <strong>우수논문상</strong>, date: '2020', organization: '한국정보처리학회',
+detail: '`구면 PTAM의 구현을 위한 카메라 모델 설계`에 대한 논문으로 2020년도 한국정보처리학회 춘계학술발표대회에서 우수논문상을 수상함.'}
+- {name: <strong>우수논문상</strong>, date: '2020', organization: '한국게임학회',
+detail: '`게임 엔진에서의 구면 파노라마 비디오 생성 기법`에 대한 논문으로 2020년도 한국게임학회 춘계학술발표대회에서 우수논문상을 수상함.'}
+- {name: <strong>우수논문발표상</strong>, date: '2020', organization: '한국게임학회',
+detail: '`구면 파노라마 배경의 FPS 게임에서의 질감을 고려한 효과음 생성`에 대한 논문으로 2020년도 한국게임학회 추계학술발표대회에서 우수발표상을 수상함.'}
+- {name: <strong>INU 창의적 캡스톤디자인 경진대회 입상</strong>, date: '2019', organization: '인천대학교',
+detail: '`향상된 SLAM 기능을 가진 특정 개체 추적 로봇`을 설계하여 제 15회 인천대학교 창의적종합설계경진대회에서 동상 수상.'}
+- {name: <strong>우수논문발표상</strong>, date: '2019', organization: '한국게임학회',
+detail: '`바닷속 세계 RPG의 스토리 설계`에 대한 논문으로 2019년도 한국게임학회 춘계학술발표대회에서 우수발표상(넥슨코리아상)을 수상함.'}
+- {name: <strong>INU 창의적 캡스톤디자인 경진대회 입상</strong>, date: '2017', organization: '인천대학교',
+detail: '`센서식 자동 문 고정장치`를 설계하여 제 12회 인천대학교 창의적종합설계경진대회에서 동상 수상.'}
+- {name: <strong>창의적종합설계경진대회 </strong>, date: '2016', organization: '인천대학교',
+detail: '`보이지 않는 신디사이저`를 설계하여 제 12회 인천대학교 창의적종합설계경진대회에서 은상 수상.'}
 
 
 #-------------------------------
