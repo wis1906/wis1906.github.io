@@ -3,9 +3,16 @@
 
 @font-face {
   font-family: 'BwNistaInt-xBd';
-  src: url("../fonts/NanumGothic.woff") format("woff");
+  src: url("../fonts/BwNistaInt-xBd.woff") format("woff");
   font-style: normal;
   font-display: swap;
+}
+
+@font-face {
+    font-family: 'NanumGothic';
+    src: url("../fonts/NanumGothic.woff") format("woff");
+    font-style: normal;
+    font-display: swap;
 }
 
 body {
