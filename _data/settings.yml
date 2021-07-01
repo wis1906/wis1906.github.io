@@ -95,13 +95,13 @@ team:
 
 skills-title: Skills
 skills:
-- {name: "Unity Engine"., color: '#4169E1', value: '90%'}
-- {name: "Unreal Engine"., color: '#39383F', value: '60%'}
-- {name: "C++", color: '#98F375', value: '80%'}
-- {name: "C", color: '#EFEF51', value: '70%'}
-- {name: "C#", color: '#6F11F6', value: '60%'}
-- {name: "JAVA", color: '#F69C11', value: '40%'}
-- {name: "Python", color: '#F75E80', value: '40%'}
+- {name: "Unity Engine"., color: '#4169e1', value: '90%'}
+- {name: "Unreal Engine"., color: '#39383f', value: '60%'}
+- {name: "C++", color: '#98f375', value: '80%'}
+- {name: "C", color: '#efef51', value: '70%'}
+- {name: "C#", color: '#6f11f6', value: '60%'}
+- {name: "JAVA", color: '#f69c11', value: '40%'}
+- {name: "Python", color: '#f75e80', value: '40%'}
 
 
 #-------------------------------
