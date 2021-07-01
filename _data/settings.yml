@@ -1,13 +1,13 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Developer KISIK
 logo: 
 author: themefisher
 description: this is meta description
 email: wis1906@naver.com
 phone: 010 9747 2355
-address: 옥련동 테스트5
+address: Incheon, Korea
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: 안녕하세요! I’m <br> Christoher <br> UX designer
+  hero-title: 반갑습니다! <br> 저는 많은 꿈을 현실로 만드는 개발자 <br> 김기식입니다.
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -293,4 +293,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: wis1906@naver.com
