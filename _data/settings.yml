@@ -52,9 +52,7 @@ social:
 
 # About Section
 blurb:
-  Laaaorem ipsum dolor sit amet, 
-  consectetur adipisicing elit, sed do 
-  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  안녕하세요.
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -130,8 +128,8 @@ education:
 
 award-title: Awards
 award:
-- {name: <strong>공학 학사</strong>, date: '2015.03 - 2020.02', detail: '인천대학교 임베디드시스템공학과'}
-- {name: <strong>공학 석사</strong>, date: '2020.03 - Ing', detail: '인천대학교 컴퓨터공학과'}
+- {name: <strong>공학 학사</strong>, date: '2015.03', detail: '인천대학교'}
+- {name: <strong>공학 석사</strong>, date: '2020.03', detail: '인천대학교'}
 
 
 #-------------------------------
