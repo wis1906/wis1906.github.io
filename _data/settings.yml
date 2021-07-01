@@ -102,6 +102,7 @@ skills:
 - {name: C Sharp, color: '#6f11f6', value: '60%'}
 - {name: JAVA, color: '#f69c11', value: '40%'}
 - {name: Python, color: '#f75e80', value: '40%'}
+- {name: Little Design Skills, color: '#7520ff', value: '70%'}
 
 
 #-------------------------------
