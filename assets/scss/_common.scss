@@ -214,32 +214,38 @@ a:hover {
   color: #c8d5ef;
 }
 
-/* /icon */
+.icon-yellowlight {
+    color: #e7ec8e;
+}
 
+/* /icon */
 /* slick slider */
-.slick-dots{
-  text-align: center;
-  padding-left: 0;
-  li{
-    display: inline-block;
-    margin: 2px;
-    &.slick-active{
-      button{
-        background: $white;
-        width: 25px;
-      }
+.slick-dots {
+    text-align: center;
+    padding-left: 0;
+
+    li {
+        display: inline-block;
+        margin: 2px;
+
+        &.slick-active {
+            button {
+                background: $white;
+                width: 25px;
+            }
+        }
+
+        button {
+            height: 6px;
+            width: 12px;
+            background: rgba($color: $white, $alpha: .5);
+            color: transparent;
+            border-radius: 10px;
+            overflow: hidden;
+            transition: .2s ease;
+            border: 0;
+        }
     }
-    button{
-      height: 6px;
-      width: 12px;
-      background: rgba($color: $white, $alpha: .5);
-      color: transparent;
-      border-radius: 10px;
-      overflow: hidden;
-      transition: .2s ease;
-      border: 0;
-    }
-  }
 }
 /* /slick slider */
 
