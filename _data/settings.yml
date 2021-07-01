@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: "반갑습니다! <br> 재미있는 상상을 풀어내는 개발자 <br> <strong>김기식</strong>입니다."
+  hero-title: "반갑습니다! <br> <strong>상상</strong>을 <strong>요리</strong>하는 개발자 <br> <strong>김기식</strong>입니다."
 
 social:
 - {icon: "ti-facebook", link: "#"}
