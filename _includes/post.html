@@ -9,7 +9,9 @@
             <a class="text-dark text-bold" href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </h4>
         <p class="card-text">{% assign curlyend = '}' %}{{ post.excerpt | markdownify | strip_html | replace: "{% include JB/setup %", "" | replace: curlyend, "" | truncatewords: 30 }}</p>
-        <a href="{{ post.url | relative_url }}" class="btn btn-xs btn-primary">Read More</a>
+        <p align="middle">
+            <a href="{{ post.url | relative_url }}" class="btn btn-xs btn-primary">Read More</a>
+        </p>
     </div>
   </article>
 </div>

@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <!-- page title -->
 <section class="page-title bg-primary position-relative">
     <div class="container">
@@ -30,7 +31,7 @@ layout: default
                     Period on {{ page.period }} by {{ page.author }}</span> on {% for tag in page.tags %}{{ tag }} </span>{% endfor %}
                 </p>
                 <div class="content">
-                    <img src="{{page.image | relative_url }}" class="img-fluid rounded float-left mr-5 mb-4" alt="{{page.title}}">
+                    <img src="{{page.image | relative_url }}" class="img-fluid rounded float-left mr-5 mb-4" alt="{{page.title}}" style="border:6px outset purple;">
                     {{ content }}
                 </div>
             </div>
@@ -48,10 +49,10 @@ layout: default
                 <h2 class="section-title">Similar Stories</h2>
             </div>
             {% for post in site.posts offset:0 limit:3 %}
-            <div class="col-lg-4 text-center float-left">
+            <div class="col-lg-4 float-left">
                 {% include post.html %}
             </div>
-                {% endfor %}
+            {% endfor %}
         </div>
     </div>
 </section>
