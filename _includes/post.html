@@ -1,17 +1,19 @@
-<div class="mb-4">
-  <article class="card shadow">
-    <img class="scalezoom_small rounded card-img-top" src="{{ post.image | post.url | relative_url }}" alt="{{ post.title }}">
-    <div class="card-body">
-        <h5 class="text-center card-title">
-            <a class="text-dark" href="{{ post.url | relative_url }}">{{ post.period }}</a>
-        </h5>
-        <h4 class="card-title">
-            <a class="text-dark text-bold" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        </h4>
-        <p class="card-text">{% assign curlyend = '}' %}{{ post.excerpt | markdownify | strip_html | replace: "{% include JB/setup %", "" | replace: curlyend, "" | truncatewords: 30 }}</p>
-        <p align="middle">
-            <a href="{{ post.url | relative_url }}" class="btn btn-xs btn-primary">Read More</a>
-        </p>
-    </div>
-  </article>
+<div class="mb-4 scalezoom_reverse">
+    <article class="card shadow">
+        <a class="text-center" href="{{ post.url | relative_url }}">
+            <img class="rounded card-img-top" src="{{ post.image | post.url | relative_url }}" alt="{{ post.title }}">
+        </a>
+        <div class="card-body">
+            <h5 class="text-center card-title">
+                <p class="text-dark">{{ post.period }}</p>
+            </h5>
+            <h4 class="card-title">
+                <a class="text-dark text-bold" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </h4>
+            <p class="card-text">{% assign curlyend = '}' %}{{ post.excerpt | markdownify | strip_html | replace: "{% include JB/setup %", "" | replace: curlyend, "" | truncatewords: 30 }}</p>
+            <p align="middle">
+                <a href="{{ post.url | relative_url }}" class="btn btn-xs btn-primary">Read More</a>
+            </p>
+        </div>
+    </article>
 </div>

@@ -287,6 +287,25 @@ textarea.form-control {
 /* /card */
 
 /* image */
+.scalezoom_reverse {
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transition: all 0.2s ease-in-out;
+}
+
+.scalezoom_reverse:hover {
+    transform: scale(0.9);
+    -webkit-transform: scale(0.9);
+    -moz-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    -o-transform: scale(0.9);
+    position: relative;
+    z-index: 999;
+}
+
 .scalezoom_small {
     transform: scale(1);
     -webkit-transform: scale(1);

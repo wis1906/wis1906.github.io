@@ -26,23 +26,17 @@ portfolio-type:
 <h4 class="text-bold text-center">소개</h4>
 <div class="text-center">
     <div class="text-center text-bold" style="height:300px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
-        <img class="scalezoom_small" src="/assets/images/blog/ToOceanDeep/introduce_1.png" alt="원스토어 전체 인기 유료 2위" height="100%">
-    </div>
+        <img class="scalezoom_small" src="/assets/images/blog/ToOceanDeep/introduce_1.png" alt="원스토어 전체 인기 유료 2위" height="100%"></div>
     <div class="text-center text-bold" style="height:300px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
-        <img class="scalezoom_small" src="/assets/images/blog/ToOceanDeep/introduce_2.png" alt="신규 인기 유료부분 1위" height="100%">
-    </div>
+        <img class="scalezoom_small" src="/assets/images/blog/ToOceanDeep/introduce_2.png" alt="신규 인기 유료부분 1위" height="100%"></div>
     <div class="text-center text-bold" style="height:300px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
-        <img class="scalezoom_small" src="/assets/images/blog/ToOceanDeep/introduce_3.png" alt="롤플레잉장르 급상승 1위" height="100%">
-    </div>
+        <img class="scalezoom_small" src="/assets/images/blog/ToOceanDeep/introduce_3.png" alt="롤플레잉장르 급상승 1위" height="100%"></div>
     <div class="text-center text-bold" style="height:300px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
-        <img class="scalezoom_small" src="/assets/images/blog/ToOceanDeep/introduce_4.png" alt="전체장르 급상승 7위" height="100%">
-    </div>
+        <img class="scalezoom_small" src="/assets/images/blog/ToOceanDeep/introduce_4.png" alt="전체장르 급상승 7위" height="100%"></div>
     <div class="text-center text-bold" style="height:229px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
-        <img class="scalezoom_small" src="/assets/images/blog/ToOceanDeep/introduce_5.png" alt="롤플레잉 유료차트 11위" height="100%">
-    </div>
+        <img class="scalezoom_small" src="/assets/images/blog/ToOceanDeep/introduce_5.png" alt="롤플레잉 유료차트 11위" height="100%"></div>
     <div class="text-center text-bold" style="height:229px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
-        <img class="scalezoom_small" src="/assets/images/blog/ToOceanDeep/introduce_6.png" alt="전체 인기 유료 83위" height="100%">
-    </div>
+        <img class="scalezoom_small" src="/assets/images/blog/ToOceanDeep/introduce_6.png" alt="전체 인기 유료 83위" height="100%"></div>
     <div style="clear:both;"></div>
 </div>
 투 오션 딥(To Ocean Deep)은 주인공 루빈이 바닷속에서 경험하는 신비한 모험을 담은 오픈 월드 RPG입니다.<br>
@@ -63,28 +57,22 @@ portfolio-type:
 <div class="text-center">
     <div class="text-center text-bold" style="height:250px; border:4px outset purple; float:left; margin-right:5px; padding:5px;">
         <img class="scalezoom_big" src="/assets/images/blog/ToOceanDeep/chart_onestore_2st.jpg" alt="원스토어 전체 인기 유료 2위" height="85%">
-        <figcaption>원스토어 전체 인기 유료 2위</figcaption>
-    </div>
+        <figcaption>원스토어 전체 인기 유료 2위</figcaption></div>
     <div class="text-center text-bold" style="height:250px; border:4px outset purple; float:left; margin-right:5px; padding:5px;">
         <img class="scalezoom_big" src="/assets/images/blog/ToOceanDeep/chart_new_popular_1st.png" alt="신규 인기 유료부분 1위" height="85%">
-        <figcaption>신규 인기 유료부분 1위</figcaption>
-    </div>
+        <figcaption>신규 인기 유료부분 1위</figcaption></div>
     <div class="text-center text-bold" style="height:250px; border:4px outset purple; float:left; margin-right:5px; padding:5px;">
         <img class="scalezoom_big" src="/assets/images/blog/ToOceanDeep/chart_rpg_hot_1st.png" alt="롤플레잉장르 급상승 1위" height="85%">
-        <figcaption>롤플레잉장르 급상승 1위</figcaption>
-    </div>
+        <figcaption>롤플레잉장르 급상승 1위</figcaption></div>
     <div class="text-center text-bold" style="height:250px; border:4px outset purple; float:left; margin-right:5px; padding:5px;">
         <img class="scalezoom_big" src="/assets/images/blog/ToOceanDeep/chart_all_hot_7st.png" alt="전체장르 급상승 7위" height="85%">
-        <figcaption>전체장르 급상승 7위</figcaption>
-    </div>
+        <figcaption>전체장르 급상승 7위</figcaption></div>
     <div class="text-center text-bold" style="height:250px; border:4px outset purple; float:left; margin-right:5px; padding:5px;">
         <img class="scalezoom_big" src="/assets/images/blog/ToOceanDeep/chart_rpg_popular_11st.png" alt="롤플레잉 유료차트 11위" height="85%">
-        <figcaption>롤플레잉 유료차트 11위</figcaption>
-    </div>
+        <figcaption>롤플레잉 유료차트 11위</figcaption></div>
     <div class="text-center text-bold" style="height:250px; border:4px outset purple; float:left; margin-right:5px; padding:5px;">
         <img class="scalezoom_big" src="/assets/images/blog/ToOceanDeep/chart_all_popular_83st.png" alt="전체 인기 유료 83위" height="85%">
-        <figcaption>전체 인기 유료 83위</figcaption>
-    </div>
+        <figcaption>전체 인기 유료 83위</figcaption></div>
     <div style="clear:both;"></div>
 </div>
 ⯀ 원스토어 전체 인기 유료 2위<br>

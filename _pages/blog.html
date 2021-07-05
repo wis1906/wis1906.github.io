@@ -22,9 +22,7 @@ title: Portfolio
         <div class="row shuffle-wrapper">
             {% for post in site.posts %}
             <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[{% for portfolio in post.portfolio-type %}{% if forloop.first == true %}{% else %},{% endif %}&quot;{{ portfolio.type }}&quot;{% endfor %}]">
-                <div class="position-relative rounded hover-wrapper">
                     {% include post.html %}
-                </div>
             </div>
             {% endfor %}
         </div>
