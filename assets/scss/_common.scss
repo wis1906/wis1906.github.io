@@ -319,5 +319,7 @@ textarea.form-control {
     -moz-transform: scale(2.5);
     -ms-transform: scale(2.5);
     -o-transform: scale(2.5);
+    position: relative;
+    z-index: 999;
 }
 /* card */
