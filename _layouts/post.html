@@ -31,7 +31,7 @@ layout: default
                     Period on {{ page.period }} by {{ page.author }}</span> on {% for tag in page.tags %}{{ tag }} </span>{% endfor %}
                 </p>
                 <div class="content">
-                    <img src="{{page.image | relative_url }}" class="img-fluid rounded float-left mr-5 mb-4" alt="{{page.title}}" style="border:6px outset purple;">
+                    <img src="{{page.image | relative_url }}" class="img-fluid rounded float-left mr-5 mb-4" alt="{{page.title}}" style="border:6px outset purple;" width:600px>
                     {{ content }}
                 </div>
             </div>
