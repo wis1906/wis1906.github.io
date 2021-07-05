@@ -1,27 +1,25 @@
 ---
 layout: post
-title:  투 오션 딥(To Ocean Deep)
-period:   2018.01 - 2018.12
-image:  /assets/images/blog/ToOceanDeep/title.png
+title:  텍스쳐 자동 분석 FPS 게임
+period:   2020.11
+image:  /assets/images/blog/AutoTextureRecogFPS/title.png
 author: K.S. KIM
 tags:   1-P. Dev.
 portfolio-type:
-    - type: "one person development"
+    - type: "research and development"
 ---
 
-<h4 class="text-bold">아름다운 바다를 담은 스토리형 RPG</h4>
+<h4 class="text-bold">구면 파노라마 영상을 기반으로 영상처리를 통해 텍스쳐를 분석하여 자동으로 효과음을 생성하는 FPS 게임</h4>
 
-⯀ 프로젝트명: 투 오션 딥(To Ocean Deep)<br>
+⯀ 프로젝트명: 텍스쳐 자동 분석 FPS 게임<br>
 ⯀ 개발 인원: 1인 개발<br>
-⯀ 장르: 오픈 월드 RPG<br>
-⯀ 플랫폼: Android<br>
-⯀ 개발 기간: 2018.01 - 2018.12<br>
-⯀ 개발 환경: [프로그래밍]Unity Engine, C# / [디자인]Gimp2<br>
-⯀ 소스 공개 여부: X(현재 상용화중)<br>
-⯀ 프로젝트 링크:
-<a href = "https://play.google.com/store/apps/details?id=com.cisdom.oceandeep&hl=ko" target = "parent" >[구글플레이]</a> / <a href = "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000737510&scYn=Y" target = "parent" >[원스토어]</a>
-<br><br><br><br><br><br><br>
-
+⯀ 장르: R&D<br>
+⯀ 플랫폼: Windows PC<br>
+⯀ 개발 기간: 2020.11<br>
+⯀ 개발 환경: Unreal Engine, C++<br>
+⯀ 소스 공개 여부: O<br>
+⯀ 프로젝트 링크: <a href = "https://github.com/wis1906/spherical-fps" target = "parent" >[깃허브 레포지토리]</a>
+<br><br><br><br><br>
 
 <h4 class="text-bold text-center">소개</h4>
 <div class="text-center">
