@@ -302,6 +302,8 @@ textarea.form-control {
     -moz-transform: scale(1.5);
     -ms-transform: scale(1.5);
     -o-transform: scale(1.5);
+    position: relative;
+    z-index: 999;
 }
 
 .scalezoom_big {
@@ -314,11 +316,11 @@ textarea.form-control {
 }
 
 .scalezoom_big:hover {
-    transform: scale(2.5);
-    -webkit-transform: scale(2.5);
-    -moz-transform: scale(2.5);
-    -ms-transform: scale(2.5);
-    -o-transform: scale(2.5);
+    transform: scale(2);
+    -webkit-transform: scale(2);
+    -moz-transform: scale(2);
+    -ms-transform: scale(2);
+    -o-transform: scale(2);
     position: relative;
     z-index: 999;
 }
