@@ -4,7 +4,7 @@ title:  투 오션 딥(To Ocean Deep)
 period:   2018.01 - 2018.12
 image:  /assets/images/blog/ToOceanDeep/title.png
 author: K.S. KIM
-tags:   1-P. Dev.
+tags:   1인 개발
 portfolio-type:
     - type: "one person development"
 ---
@@ -23,7 +23,7 @@ portfolio-type:
 <br><br><br><br><br><br><br>
 
 
-<h4 class="text-bold text-center">소개</h4>
+<h4 class="text-bold text-center">- 소개 -</h4>
 <div class="text-center">
     <div class="text-center text-bold" style="height:300px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
         <img class="scalezoom_small" src="/assets/images/blog/ToOceanDeep/introduce_1.png" alt="원스토어 전체 인기 유료 2위" height="100%"></div>
@@ -53,24 +53,24 @@ portfolio-type:
 <br><br>
 
 
-<h4 class="text-bold text-center">성과</h4>
+<h4 class="text-bold text-center">- 성과 -</h4>
 <div class="text-center">
-    <div class="text-center text-bold" style="height:250px; border:4px outset purple; float:left; margin-right:5px; padding:5px;">
+    <div class="text-center text-bold" style="height:250px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
         <img class="scalezoom_big" src="/assets/images/blog/ToOceanDeep/chart_onestore_2st.jpg" alt="원스토어 전체 인기 유료 2위" height="85%">
         <figcaption>원스토어 전체 인기 유료 2위</figcaption></div>
-    <div class="text-center text-bold" style="height:250px; border:4px outset purple; float:left; margin-right:5px; padding:5px;">
+    <div class="text-center text-bold" style="height:250px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
         <img class="scalezoom_big" src="/assets/images/blog/ToOceanDeep/chart_new_popular_1st.png" alt="신규 인기 유료부분 1위" height="85%">
         <figcaption>신규 인기 유료부분 1위</figcaption></div>
-    <div class="text-center text-bold" style="height:250px; border:4px outset purple; float:left; margin-right:5px; padding:5px;">
+    <div class="text-center text-bold" style="height:250px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
         <img class="scalezoom_big" src="/assets/images/blog/ToOceanDeep/chart_rpg_hot_1st.png" alt="롤플레잉장르 급상승 1위" height="85%">
         <figcaption>롤플레잉장르 급상승 1위</figcaption></div>
-    <div class="text-center text-bold" style="height:250px; border:4px outset purple; float:left; margin-right:5px; padding:5px;">
+    <div class="text-center text-bold" style="height:250px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
         <img class="scalezoom_big" src="/assets/images/blog/ToOceanDeep/chart_all_hot_7st.png" alt="전체장르 급상승 7위" height="85%">
         <figcaption>전체장르 급상승 7위</figcaption></div>
-    <div class="text-center text-bold" style="height:250px; border:4px outset purple; float:left; margin-right:5px; padding:5px;">
+    <div class="text-center text-bold" style="height:250px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
         <img class="scalezoom_big" src="/assets/images/blog/ToOceanDeep/chart_rpg_popular_11st.png" alt="롤플레잉 유료차트 11위" height="85%">
         <figcaption>롤플레잉 유료차트 11위</figcaption></div>
-    <div class="text-center text-bold" style="height:250px; border:4px outset purple; float:left; margin-right:5px; padding:5px;">
+    <div class="text-center text-bold" style="height:250px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
         <img class="scalezoom_big" src="/assets/images/blog/ToOceanDeep/chart_all_popular_83st.png" alt="전체 인기 유료 83위" height="85%">
         <figcaption>전체 인기 유료 83위</figcaption></div>
     <div style="clear:both;"></div>
@@ -84,5 +84,9 @@ portfolio-type:
 <br><br>
 
 
-<h4 class="text-bold text-center">참고 영상</h4>
-<p align="middle"><iframe width="840" height="472" src="https://www.youtube.com/embed/YBjCf18ZGJ8" frameborder="0" allowfullscreen></iframe></p>
+<h4 class="text-bold text-center">- 참고 영상 -</h4>
+<div class="text-center">
+    <div class="text-center text-bold" style="border:4px outset clear; display:inline-block; margin-right:10px;">
+        <iframe width="840" height="472" src="https://www.youtube.com/embed/YBjCf18ZGJ8" frameborder="0" allowfullscreen></iframe></div>
+    <div style="clear:both;"></div>
+</div>

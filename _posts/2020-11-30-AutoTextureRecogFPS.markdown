@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  텍스쳐 자동 분석 FPS 게임
+title:  텍스쳐 자동 분석 증강현실 FPS 게임
 period:   2020.11
 image:  /assets/images/blog/AutoTextureRecogFPS/title.png
 author: K.S. KIM
-tags:   1-P. Dev.
+tags:   연구 개발
 portfolio-type:
     - type: "research and development"
 ---
 
 <h4 class="text-bold">구면 파노라마 영상을 기반으로 영상처리를 통해 텍스쳐를 분석하여 자동으로 효과음을 생성하는 FPS 게임</h4>
 
-⯀ 프로젝트명: 텍스쳐 자동 분석 FPS 게임<br>
+⯀ 프로젝트명: 텍스쳐 자동 분석 증강현실 FPS 게임<br>
 ⯀ 개발 인원: 1인 개발<br>
 ⯀ 장르: R&D<br>
 ⯀ 플랫폼: Windows PC<br>
@@ -21,66 +21,68 @@ portfolio-type:
 ⯀ 프로젝트 링크: <a href = "https://github.com/wis1906/spherical-fps" target = "parent" >[깃허브 레포지토리]</a>
 <br><br><br><br><br>
 
-<h4 class="text-bold text-center">소개</h4>
+<h4 class="text-bold text-center">- 소개 -</h4>
+구면 영상을 활용하는 게임 공간은 사용자에게 극대화된 현실감을 줄 수 있습니다.<br>
+FPS 게임은 높은 몰입감과 현실감이 중요한 게임 장르입니다.<br>
+구면 영상을 활용한 배경 공간은 현실감을 강조하는 FPS 게임에 적합한 기술입니다.<br>
+그러나, FPS 게임에 구면 영상을 배경으로 적용할 때에는 공간의 깊이 파악, 다양한 재질에 따른 역동적인 변화 등 고려해야 할 점들이 있습니다.<br>
+<br>
 <div class="text-center">
-    <div class="text-center text-bold" style="height:300px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
-        <img class="scalezoom_small" src="/assets/images/blog/ToOceanDeep/introduce_1.png" alt="원스토어 전체 인기 유료 2위" height="100%"></div>
-    <div class="text-center text-bold" style="height:300px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
-        <img class="scalezoom_small" src="/assets/images/blog/ToOceanDeep/introduce_2.png" alt="신규 인기 유료부분 1위" height="100%"></div>
-    <div class="text-center text-bold" style="height:300px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
-        <img class="scalezoom_small" src="/assets/images/blog/ToOceanDeep/introduce_3.png" alt="롤플레잉장르 급상승 1위" height="100%"></div>
-    <div class="text-center text-bold" style="height:300px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
-        <img class="scalezoom_small" src="/assets/images/blog/ToOceanDeep/introduce_4.png" alt="전체장르 급상승 7위" height="100%"></div>
-    <div class="text-center text-bold" style="height:229px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
-        <img class="scalezoom_small" src="/assets/images/blog/ToOceanDeep/introduce_5.png" alt="롤플레잉 유료차트 11위" height="100%"></div>
-    <div class="text-center text-bold" style="height:229px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
-        <img class="scalezoom_small" src="/assets/images/blog/ToOceanDeep/introduce_6.png" alt="전체 인기 유료 83위" height="100%"></div>
+    <div class="text-center text-bold" style="height:500px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
+        <img class="scalezoom_small" src="/assets/images/blog/AutoTextureRecogFPS/intro_gamespace.png" alt="제작한 FPS 게임 공간" height="90%">
+        <figcaption>제작한 FPS 게임 공간</figcaption></div>
     <div style="clear:both;"></div>
 </div>
-투 오션 딥(To Ocean Deep)은 주인공 루빈이 바닷속에서 경험하는 신비한 모험을 담은 오픈 월드 RPG입니다.<br>
-투 오션 딥은 유명 1인 개발자 '키위웍스'님에게서 영감을 얻어, 높은 개발 비용으로 인해 시들어가는 RPG 시장의 번영을 바라는 취지에서 개발을 시작하였습니다.<br>
-<br>
-"내가 할 수 있는 모든 것을 보여주려면 어떻게 해야하지?" 라는 질문을 스스로에게 던지며, 탄탄한 스토리를 가진 오픈 월드 RPG를 만들기로 결심했었습니다.<br>
-장장 11개월에 걸쳐 동안 기획, 프로그래밍, 디자인, 마케팅까지 모든 것을 스스로 해보고, 많은 점을 느끼고 배울 수 있는 최고의 시간이였습니다.<br>
-개발을 진행하며 흥미진진하고 아름다운 서사와, 이에 어울리는 파스텔톤의 평화로운 디자인을 주기 위해 많은 노력을 했습니다.<br>
-80장 분량의 스토리 초안과 15시간이 넘는 플레이타임은 11개월간의 땀방울을 나타내주었습니다.<br>
-<br>
-게임은 호흡에 한계가 있는 주인공 '루빈'과, 루빈이 개발한 '이동형 집'의 적절한 활용을 통해 진행합니다.<br>
-체력에 한계가 있지만 몸집을 활용할 수 있는 루빈, 그리고 체력에 한계가 없지만 몸집이 큰 이동형 집을 활용해 다양한 서사를 풀어나갑니다.<br>
-게임 속에서 채집과 조합, 다양한 퍼즐과 수수께기, 숨겨진 이벤트, 여러 업그레이드 요소 등 많은 흥미로운 콘텐츠를 담고 있습니다.<br>
+본 연구 프로그램은 구면 파노라마를 활용한 배경 공간을 배경으로 하는 FPS 게임에서 질감을 고려하여 역동적인 충돌 효과음을 생성하는 방법을 제안합니다.<br>
+제안 방법은 깊이맵을 통해 공간감을 형성하고, 총알의 충돌 지점 주변 재질을 분석하여 역동적인 충돌 효과음을 생성합니다.<br>
+제안 방법을 구면 공간을 사용하는 FPS 게임에 적용하여 실험한 결과 다양한 충돌 효과음을 효과적으로 생성됨을 보였습니다.<br>
 <br><br>
 
 
-<h4 class="text-bold text-center">성과</h4>
+<h4 class="text-bold text-center">- 성과 -</h4>
 <div class="text-center">
-    <div class="text-center text-bold" style="height:250px; border:4px outset purple; float:left; margin-right:5px; padding:5px;">
-        <img class="scalezoom_big" src="/assets/images/blog/ToOceanDeep/chart_onestore_2st.jpg" alt="원스토어 전체 인기 유료 2위" height="85%">
-        <figcaption>원스토어 전체 인기 유료 2위</figcaption></div>
-    <div class="text-center text-bold" style="height:250px; border:4px outset purple; float:left; margin-right:5px; padding:5px;">
-        <img class="scalezoom_big" src="/assets/images/blog/ToOceanDeep/chart_new_popular_1st.png" alt="신규 인기 유료부분 1위" height="85%">
-        <figcaption>신규 인기 유료부분 1위</figcaption></div>
-    <div class="text-center text-bold" style="height:250px; border:4px outset purple; float:left; margin-right:5px; padding:5px;">
-        <img class="scalezoom_big" src="/assets/images/blog/ToOceanDeep/chart_rpg_hot_1st.png" alt="롤플레잉장르 급상승 1위" height="85%">
-        <figcaption>롤플레잉장르 급상승 1위</figcaption></div>
-    <div class="text-center text-bold" style="height:250px; border:4px outset purple; float:left; margin-right:5px; padding:5px;">
-        <img class="scalezoom_big" src="/assets/images/blog/ToOceanDeep/chart_all_hot_7st.png" alt="전체장르 급상승 7위" height="85%">
-        <figcaption>전체장르 급상승 7위</figcaption></div>
-    <div class="text-center text-bold" style="height:250px; border:4px outset purple; float:left; margin-right:5px; padding:5px;">
-        <img class="scalezoom_big" src="/assets/images/blog/ToOceanDeep/chart_rpg_popular_11st.png" alt="롤플레잉 유료차트 11위" height="85%">
-        <figcaption>롤플레잉 유료차트 11위</figcaption></div>
-    <div class="text-center text-bold" style="height:250px; border:4px outset purple; float:left; margin-right:5px; padding:5px;">
-        <img class="scalezoom_big" src="/assets/images/blog/ToOceanDeep/chart_all_popular_83st.png" alt="전체 인기 유료 83위" height="85%">
-        <figcaption>전체 인기 유료 83위</figcaption></div>
+    <div class="text-center text-bold" style="height:400px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
+        <img class="scalezoom_big" src="/assets/images/blog/AutoTextureRecogFPS/reward_paper.jpg" alt="한국게임학회 논문 게재" height="85%">
+        <figcaption>한국게임학회 논문 게재</figcaption></div>
+    <div class="text-center text-bold" style="height:400px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
+        <img class="scalezoom_big" src="/assets/images/blog/ToOceanDeep/chart_onestore_2st.jpg" alt="우수논문발표상 수상" height="85%">
+        <figcaption>우수논문발표상 수상</figcaption></div>
     <div style="clear:both;"></div>
 </div>
-⯀ 원스토어 전체 인기 유료 2위<br>
-⯀ 구글플레이 신규 인기 유료부분 1위<br>
-⯀ 구글플레이 롤플레잉장르 급상승 1위<br>
-⯀ 구글플레이 전체장르 급상승 7위<br>
-⯀ 구글플레이 롤플레잉 유료차트 11위<br>
-⯀ 구글플레이 전체 인기 유료 83위<br>
+⯀ 2020년도 한국게임학회 추계학술발표대회에 '구면 파노라마 배경의 FPS 게임에서의 질감을 고려한 효과음 생성'에 대한 논문 게재<br>
+⯀ 2020년도 한국게임학회 추계학술발표대회에서 우수발표상 수상<br>
 <br><br>
 
 
-<h4 class="text-bold text-center">참고 영상</h4>
-<p align="middle"><iframe width="840" height="472" src="https://www.youtube.com/embed/YBjCf18ZGJ8" frameborder="0" allowfullscreen></iframe></p>
+<h4 class="text-bold text-center">- 상세 설명 -</h4>
+<div class="text-center">
+    <div class="text-center text-bold" style="height:300px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
+        <img class="scalezoom_small" src="/assets/images/blog/AutoTextureRecogFPS/intro_lbp.png" alt="LBP의 원리 소개" height="85%">
+        <figcaption>LBP의 원리 소개</figcaption></div>
+    <div class="text-center text-bold" style="height:300px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
+        <img class="scalezoom_small" src="/assets/images/blog/AutoTextureRecogFPS/intro_cslbp_histogram.png" alt="CS-LBP 히스토그램을 활용한 재질 분석 프로세스" height="85%">
+        <figcaption>CS-LBP 히스토그램을 활용한 재질 분석 프로세스</figcaption></div>
+    <div style="clear:both;"></div>
+</div>
+설계한 시스템은 구면 파노라마 이미지를 기반으로 큐브맵 스카이박스를 생성합니다. 이는 증강현실 공간으로 활용됩니다.<br>
+시스템은 총알 충돌 지점의 주변 이미지 영역을 파악하여 재질을 분석하고, 사전에 입력된 재질 데이터와 비교하여 적절한 충돌 효과음을 생성합니다.<br>
+이를 위해서 총알 충돌 지점 주변의 이미지 패치를 획득하고, 사전에 입력된 재질 데이터와의 이진 특성값 CS-LBP를 분석합니다.<br>
+사전 입력된 재질 데이터의 CS-LBP는 히스토그램으로 나타낼 경우 각각 고유의 특성을 지니고 있습니다.<br>
+충돌 지점의 히스토그램과 사전 입력된 재질에 관한 히스토그램을 비교할 경우, 해당 지점에서 출력해야 할 충돌음을 파악할 수 있습니다.<br>
+더욱 자세한 내용은 하단의 버튼을 통해 확인하실 수 있습니다.<br>
+<div class="text-center">
+    <a href="/assets/images/blog/AutoTextureRecogFPS/paper.pdf" class="btn btn-xs btn-primary">논문 원문 보기</a>
+</div>
+<br><br>
+
+
+<h4 class="text-bold text-center">- 참고 영상 -</h4>
+<div class="text-center">
+    <div class="text-center text-bold" style="border:4px outset clear; display:inline-block; margin-right:10px;">
+        <iframe width="540" height="320" src="https://www.youtube.com/embed/y3ajHxs-sT8" frameborder="0" allowfullscreen></iframe>
+        <figcaption>게임 시연 영상</figcaption></div>
+    <div class="text-center text-bold" style="border:4px outset clear; display:inline-block; margin-right:10px;">
+        <iframe width="540" height="320" src="https://www.youtube.com/embed/1d743HR3tv4" frameborder="0" allowfullscreen></iframe>
+        <figcaption>학술대회 발표 영상</figcaption></div>
+    <div style="clear:both;"></div>
+</div>

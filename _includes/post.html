@@ -4,9 +4,15 @@
             <img class="rounded card-img-top" src="{{ post.image | post.url | relative_url }}" alt="{{ post.title }}">
         </a>
         <div class="card-body">
-            <h5 class="text-center card-title">
-                <p class="text-dark">{{ post.period }}</p>
-            </h5>
+            <div class="text-center">
+                <div class="text-bold" style="float:left;">
+                    <p class="text-dark">{{ post.tags }}</p>
+                </div>
+                <div class="text-bold" style="float:right;">
+                    <p class="text-dark">{{ post.period }}</p>
+                </div>
+                <div style="clear:both;"></div>
+            </div>
             <h4 class="card-title">
                 <a class="text-dark text-bold" href="{{ post.url | relative_url }}">{{ post.title }}</a>
             </h4>
