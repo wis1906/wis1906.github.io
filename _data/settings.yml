@@ -201,17 +201,17 @@ testimonial-items:
   - name: "Jesica Gomez"
     image: "assets/images/testimonial/client-1.png"
     designation : "CEO, Funder"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    content : "저는 <strong>개발 이외의 업무 역시 유동적으로 수행이 가능한 개발자</strong>입니다.<br> 1인 개발 및 출시, 그리고 협업 개발을 위해 기획, 개발, 디자인, 마케팅, 사운드 등 전반적인 모든 업무의 기초를 닦았습니다.<br>저의 포지션은 프로그래밍이지만 필요 시 업무의 지체 없이 직접 리소스를 수정할 수 있습니다."
     
   - name: "Jesica Gomez"
     image: "assets/images/testimonial/client-1.png"
     designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    content: "저는 <strong>협업과 소통 능력이 뛰어난 개발자</strong>입니다. <br>공공기관, 회사 등과 협업을 하며, 각자의 역할에 몰두할 수 있게끔 명확하게 업무를 이어가는 방법을 익혀갔습니다. <br> 팀 단위의 작업에서 나오는 여러 소통 상황에 진지하게 임하며, 소중한 공부거리로써 이해하고 존중합니다."
     
   - name: "Jesica Gomez"
     image: "assets/images/testimonial/client-1.png"
     designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    content: "저는 <strong>다양한 언어와 플랫폼을 다룰 수 있는 개발자</strong>입니다. <br>하드웨어와 소프트웨어의 공부를 겸하며 쌓은 다양한 경험을 기반으로, 여러 주요 프로그래밍 언어와 엔진을 다룰 수 있습니다. <br> 새로운 플랫폼에 대한 도전은 언제나 열린 마음으로 즐깁니다."
 
 #-------------------------------
 # Contact Section
