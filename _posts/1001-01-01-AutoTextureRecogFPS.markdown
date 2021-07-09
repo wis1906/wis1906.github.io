@@ -45,12 +45,12 @@ FPS 게임은 높은 몰입감과 현실감이 중요한 게임 장르입니다.
         <img class="scalezoom_big" src="/assets/images/blog/AutoTextureRecogFPS/reward_paper.jpg" alt="한국게임학회 논문 게재" height="85%">
         <figcaption>한국게임학회 논문 게재</figcaption></div>
     <div class="text-center text-bold" style="height:400px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
-        <img class="scalezoom_big" src="/assets/images/blog/ToOceanDeep/chart_onestore_2st.jpg" alt="우수논문발표상 수상" height="85%">
-        <figcaption>우수논문발표상 수상</figcaption></div>
+        <img class="scalezoom_big" src="/assets/images/award_certificate/price_2020_kcgscf.jpg" alt="우수논문발표상 수상" height="85%">
+        <figcaption>우수논문발표상(넥슨코리아상) 수상</figcaption></div>
     <div style="clear:both;"></div>
 </div>
 ⯀ 2020년도 한국게임학회 추계학술발표대회에 '구면 파노라마 배경의 FPS 게임에서의 질감을 고려한 효과음 생성'에 대한 논문 게재<br>
-⯀ 2020년도 한국게임학회 추계학술발표대회에서 우수발표상 수상<br>
+⯀ 2020년도 한국게임학회 추계학술발표대회에서 우수발표상(넥슨코리아상) 수상<br>
 <br><br>
 
 
