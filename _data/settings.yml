@@ -115,7 +115,7 @@ detail: '2020년 인천광역시 교육청 사이버진로교육원에 T/F 팀 �
 detail: '인지도가 높은 캐릭터를 보유한 회사와 협업 계약을 맺고 모바일게임 공동 개발을 수행하였습니다. 저는 `기획, 프로그래밍` 업무를 담당하였고, 회사는 `기획, 디자인, 유통` 업무를 담당하였습니다.'}
 - {name: ECL, icon: 'icon-3.png', date: '2020.03 - 2022.02', organization: '인천대학교 대학원',
 detail: '석사 과정동안 Entertainment Computing Lab에서 연구하며 AR과 VR에 대한 심도 있는 공부를 수행하였습니다. 이 과정에서 기저 이론을 기반으로 한 많은 논문을 개제하였습니다.'}
-- {name: To Ocean Deep 1인 개발, icon: 'icon-3.png', date: '2018.01 - 2018.12', organization: 'Cisdom',
+- {name: To Ocean Deep 1인 개발, icon: 'to_ocean_deep.png', date: '2018.01 - 2018.12', organization: 'Cisdom',
 detail: '오픈 월드 RPG 투 오션 딥(To Ocean Deep)을 개발하여 출시했습니다. 기획, 개발, 디자인을 포함한 모든 작업은 직접 수행하였습니다.'}
 - {name: ENSA, icon: 'icon-3.png', date: '2017.03 - 2017.09', organization: '인천대학교',
 detail: '학부 과정 중 Embedded Network System Architecture Lab에서 네트워크의 심화 과정을 배우고, 다양한 프로젝트에 참여해 수행하였습니다.'}
