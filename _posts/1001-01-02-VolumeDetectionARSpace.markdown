@@ -48,7 +48,7 @@ portfolio-type:
         <img class="scalezoom_big" src="/assets/images/blog/VolumeDetectionARSpace/reward_paper_kcgsc.jpg" alt="한국게임학회 논문 게재" height="85%">
         <figcaption>한국게임학회 논문 게재</figcaption></div>
     <div class="text-center text-bold" style="height:400px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
-        <img class="scalezoom_big" src="/assets/images/blog/ToOceanDeep/chart_onestore_2st.jpg" alt="우수논문발표상 수상" height="85%">
+        <img class="scalezoom_big" src="/assets/images/award_certificate/price_2021_kcgscs.jpg" alt="우수논문발표상 수상" height="85%">
         <figcaption>우수논문발표상 수상</figcaption></div>
     <div style="clear:both;"></div>
 </div>
