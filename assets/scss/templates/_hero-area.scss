@@ -1,14 +1,26 @@
 .hero-area {
-  padding: 300px 0 200px;
-  position: relative;
-  @include tablet {
-    padding: 250px 0 150px;
-    overflow: hidden;
-  }
-  h1{
+    padding: 300px 0 200px;
     position: relative;
-    z-index: 2;
-  }
+
+    @include tablet {
+        padding: 250px 0 150px;
+        overflow: hidden;
+    }
+
+    h1 {
+        position: relative;
+        z-index: 2;
+    }
+
+    hr {
+        position: relative;
+        z-index: 2;
+    }
+
+    h4 {
+        position: relative;
+        z-index: 2;
+    }
 }
 
 .layer {
