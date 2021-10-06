@@ -1,3 +1,7 @@
+## Introduction
+This is my portfolio site.
+This is a forked version of Themefisher, corrected in the right direction.
+If you want to see the site, visit https://wis1906.github.io/ .
 
 ## Customize
 
