@@ -136,6 +136,8 @@ education:
 
 award-title: Awards
 award:
+- {name: <strong>우수논문상</strong>, date: '2021.11', organization: '한국게임학회', image: '/assets/images/award_certificate/price_2021_kcgscf.jpg',
+detail: '`실내 공간의 장애물 인식을 통한 AR 게임 공간 속 이동 가능 영역 검출`에 대한 논문으로 2021년도 한국게임학회 추계학술발표대회에서 우수논문상 수상'}
 - {name: <strong>우수논문상</strong>, date: '2021.06', organization: '한국게임학회', image: '/assets/images/award_certificate/price_2021_kcgscs.jpg',
 detail: '`실내 구면 파노라마에서의 볼륨 검출을 통한 AR 게임 공간 구성`에 대한 논문으로 2021년도 한국게임학회 춘계학술발표대회에서 우수논문상 수상'}
 - {name: <strong>인천대를 빛낸 인천대 학생 표창장</strong>, date: '2020.12', organization: '인천대학교', image: '/assets/images/award_certificate/price_2020_citation.jpg',
