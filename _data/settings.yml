@@ -132,6 +132,15 @@ education:
 - {name: <strong>공학 석사</strong>, date: '2020.03 - Ing', organization: '인천대학교 컴퓨터공학과'}
 
 #-------------------------------
+# Research History Section
+
+research-title: Research History
+research:
+- {citation: 'K. S. Kim, J. S. Park, "Movable Area Detection in AR Game Space by Recognizing Obstacles in Indoor Space," in Proceedings of 2021 Korea Game Society Autumn Conference, pp. 19-26, 2021.'}
+- {citation: 'K. S. Kim, J. S. Park, "Location Prediction for Fast Pattern Tracking in Spherical Cubemap Video," in Proceedings of 2019 Korea Game Society Autumn Conference, pp. 131-136, 2019.'}
+- {citation: 'K. S. Kim, J. S. Park, "Story Design of Underwater World RPG," in Proceedings of 2019 Korea Game Society Spring Conference, 2019.'}
+
+#-------------------------------
 # Awards Section
 
 award-title: Awards
