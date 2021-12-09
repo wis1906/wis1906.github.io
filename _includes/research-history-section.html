@@ -6,7 +6,27 @@
             <div class="col-lg-12 text-center">
                 <h2 class="section-title">{{ site.data.settings.research-title }}</h2>
             </div>
-            {% for research in site.data.settings.research %}
+            <div class="col-lg-12 text-left">
+                <h3 class="section-title">Main History</h3>
+            </div>
+            {% for research in site.data.settings.research-main %}
+            <div class="col-lg-12 col-md-3 mb-10">
+                <div class="d-flex">
+                    <div class="mr-lg-5 mr-3">
+                        <i class="ti-book icon icon-bg bg-white shadow rounded-circle d-block"></i>
+                    </div>
+                    <div>
+                        <p class="mb-0 text-dark text-bold"><br></p>
+                        <h5 class="mb-0 text-dark text-bold">{{ research.citation }}</h5>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+            <div class="col-lg-12 text-left">
+                <h3 class="section-title"> </h3>
+                <h3 class="section-title">Sub History</h3>
+            </div>
+            {% for research in site.data.settings.research-sub %}
             <div class="col-lg-12 col-md-3 mb-10">
                 <div class="d-flex">
                     <div class="mr-lg-5 mr-3">

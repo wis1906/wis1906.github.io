@@ -134,11 +134,26 @@ education:
 #-------------------------------
 # Research History Section
 
-research-title: Research History
-research:
-- {citation: 'K. S. Kim, J. S. Park, "Movable Area Detection in AR Game Space by Recognizing Obstacles in Indoor Space," in Proceedings of 2021 Korea Game Society Autumn Conference, pp. 19-26, 2021.'}
-- {citation: 'K. S. Kim, J. S. Park, "Location Prediction for Fast Pattern Tracking in Spherical Cubemap Video," in Proceedings of 2019 Korea Game Society Autumn Conference, pp. 131-136, 2019.'}
-- {citation: 'K. S. Kim, J. S. Park, "Story Design of Underwater World RPG," in Proceedings of 2019 Korea Game Society Spring Conference, 2019.'}
+research-title: Research Publication
+research-main:
+- {citation: '(SCI) K. S. Kim, J. S. Park, "Cuboid-Shaped Space Recognition from Noisy Point Cloud for Indoor AR Workspace," 2021 IEEE International Symposium on Mixed and Augmented Reality Adjunct, 2021.'}
+- {citation: '(KCI) K. S. Kim, J. S. Park, "Constructing AR Game Space through Cuboid Detection in Indoor Environment," Journal of KGS, Vol. 21, No. 5, pp. 3-16, 2021.'}
+- {citation: '(KCI) K. S. Kim, J. S. Park, "Fast Pattern Tracking in Cubemap Video Using Kalman Filter," Journal of KGS, Vol. 20, No. 6, pp. 43-51, 2020.'}
+- {citation: '(KCI) K. S. Kim, J. S. Park, "Story Design and Implementation of Underwater World RPG," Journal of KSCG, Vol. 32, No. 3, pp. 11-21, 2019.'}
+
+research-sub:
+- {citation: 'K. S. Kim, J. S. Park, "Movable Area Detection in AR Game Space by Recognizing Obstacles in Indoor Space," in Proceedings of Korea Game Society Autumn Conference, pp. 19-26, 2021.'}
+- {citation: 'K. S. Kim, J. S. Park, "Object Area Detection based on Point Cloud Clustering in Indoor Space," in Proceedings of KIPS Autumn Conference, 2021.'}
+- {citation: 'K. S. Kim, J. S. Park, "Creating AR Game Space via Volume Detection from Indoor Spherical Panorama," in Proceedings of Korea Game Society Spring Conference, 2021.'}
+- {citation: 'K. S. Kim, J. S. Park, "Volume Detection from Indoor Spherical Panorama Point Cloud," in Proceedings of KIPS Spring Conference, 2021.'}
+
+- {citation: 'K. S. Kim, J. S. Park, "Sound Effect Generation Considering Texture in FPS Game with Spherical Panorama Background," in Proceedings of Korea Game Society Autumn Conference, 2020.'}
+- {citation: 'K. S. Kim, J. S. Park, "3D Mape Construction from Spherical Video using Fisheye ORB-SLAM Algorithm," in Proceedings of KIPS Autumn Conference, 2020.'}
+- {citation: 'K. S. Kim, J. S. Park, "Spherical Panorama Video Generation Technique in Game Engine," in Proceedings of Korea Game Society Spring Conference, 2020.'}
+- {citation: 'K. S. Kim, J. S. Park, "Design of Camera Model for Implementation of Spherical PTAM," in Proceedings of KIPS Spring Conference, 2020.'}
+
+- {citation: 'K. S. Kim, J. S. Park, "Location Prediction for Fast Pattern Tracking in Spherical Cubemap Video," in Proceedings of Korea Game Society Autumn Conference, pp. 131-136, 2019.'}
+- {citation: 'K. S. Kim, J. S. Park, "Story Design of Underwater World RPG," in Proceedings of Korea Game Society Spring Conference, 2019.'}
 
 #-------------------------------
 # Awards Section
