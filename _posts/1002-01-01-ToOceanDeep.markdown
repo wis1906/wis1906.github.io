@@ -16,7 +16,7 @@ portfolio-type:
 ⯀ 장르: 오픈 월드 RPG<br>
 ⯀ 플랫폼: Android<br>
 ⯀ 개발 기간: 2018.01 - 2018.12<br>
-⯀ 개발 환경: [프로그래밍]Unity Engine, C# / [디자인]Gimp2<br>
+⯀ 개발 환경: Unity Engine, C# / 3ds Max, Gimp2<br>
 ⯀ 소스 공개 여부: X(현재 상용화중)<br>
 ⯀ 프로젝트 링크:
 <a href = "https://play.google.com/store/apps/details?id=com.cisdom.oceandeep&hl=ko" target = "parent" >[구글플레이]</a> / <a href = "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000737510&scYn=Y" target = "parent" >[원스토어]</a>
