@@ -12,7 +12,7 @@ copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.c
 
 menu:
 - {name: About, link: '/about'}
-- {name: Poltfolio, link: '/blog'}
+- {name: Portfolio, link: '/blog'}
 - {name: Contact, link: '/contact'}
 
 
