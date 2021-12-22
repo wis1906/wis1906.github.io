@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 실내 공간 볼륨 검출 기반 증강현실 게임
+title: 실내 볼륨 검출 기반 증강 게임 공간 생성
 period:   2021.04 - 2021.07
 image:  /assets/images/blog/VolumeDetectionARSpace/title.png
 author: K.S. KIM
@@ -9,7 +9,7 @@ portfolio-type:
     - type: "research and development"
 ---
 
-<h4 class="text-bold">구면 파노라마 영상 기반 실내 공간에 대한 점군의 볼륨 검출을 통해 구성한 증강현실 공간 기반의 게임</h4>
+<h4 class="text-bold">구면 파노라마 영상 기반 실내 공간에 대한 점군의 볼륨 검출을 통해 구성한 증강 게임</h4>
 
 ⯀ 프로젝트명: 실내 공간 볼륨 검출 기반 증강현실 게임<br>
 ⯀ 개발 인원: 1인 개발<br>
@@ -44,14 +44,22 @@ portfolio-type:
 
 <h4 class="text-bold text-center">- 성과 -</h4>
 <div class="text-center">
+	<div class="text-center text-bold" style="height:400px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
+		<img class="scalezoom_big" src="/assets/images/blog/VolumeDetectionARSpace/reward_paper_ismar.jpg" alt="국제학회 ISMAR 논문 개체" height="85%">
+		<figcaption>국제학회 ISMAR 논문 개체</figcaption></div>
     <div class="text-center text-bold" style="height:400px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
-        <img class="scalezoom_big" src="/assets/images/blog/VolumeDetectionARSpace/reward_paper_kcgsc.jpg" alt="한국게임학회 논문 게재" height="85%">
-        <figcaption>한국게임학회 논문 게재</figcaption></div>
+        <img class="scalezoom_big" src="/assets/images/blog/VolumeDetectionARSpace/reward_paper_kcgsj.jpg" alt="한국게임학회 저널 논문 게재" height="85%">
+        <figcaption>한국게임학회 저널 논문 게재</figcaption></div>
+    <div class="text-center text-bold" style="height:400px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
+        <img class="scalezoom_big" src="/assets/images/blog/VolumeDetectionARSpace/reward_paper_kcgsc.jpg" alt="한국게임학회 학술대회 논문 게재" height="85%">
+        <figcaption>한국게임학회 학술대회 논문 게재</figcaption></div>
     <div class="text-center text-bold" style="height:400px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
         <img class="scalezoom_big" src="/assets/images/award_certificate/price_2021_kcgscs.jpg" alt="우수논문발표상 수상" height="85%">
         <figcaption>우수논문발표상 수상</figcaption></div>
     <div style="clear:both;"></div>
 </div>
+⯀ 2021년도 International Symposium on Mixed and Augmented Reality (ISMAR) Adjunct 에 'Cuboid-Shaped Space Recognition from Noisy Point Cloud for Indoor AR Workspace'에 대한 논문 게재<br>
+⯀ 2021년도 한국게임학회 학술지에 '실내 환경에서 직육면체 검출을 통한 AR 게임 공간 구성'에 대한 논문 게재<br>
 ⯀ 2021년도 한국게임학회 춘계학술발표대회에 '실내 구면 파노라마에서의 볼륨 검출을 통한 AR 게임 공간 구성'에 대한 논문 게재<br>
 ⯀ 2021년도 한국게임학회 춘계학술발표대회에서 우수논문상 수상<br>
 <br><br>
@@ -78,7 +86,9 @@ portfolio-type:
 마지막으로, 볼륨 검출 과정을 통해 획득한 OBB의 6개의 평면을 가상 세계에 배치합니다.<br>
 더욱 자세한 내용은 하단의 버튼을 통해 확인하실 수 있습니다.<br>
 <div class="text-center">
-    <a href="/assets/images/blog/VolumeDetectionARSpace/paper_kcgsc.pdf" class="btn btn-xs btn-primary">한국게임학회 논문 원문 보기</a>
+    <a href="https://ieeexplore.ieee.org/document/9585791" class="btn btn-xs btn-primary">국제학회 ISMAR 논문 보기</a>
+    <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002771179" class="btn btn-xs btn-primary">한국게임학회 학술지 논문 보기</a>
+	<a href="/assets/images/blog/VolumeDetectionARSpace/paper_kcgsc.pdf" class="btn btn-xs btn-primary">한국게임학회 춘계학술발표대회 논문 보기</a>
 </div>
 <br><br>
 
@@ -86,8 +96,8 @@ portfolio-type:
 <h4 class="text-bold text-center">- 참고 영상 -</h4>
 <div class="text-center">
     <div class="text-center text-bold" style="border:4px outset clear; display:inline-block; margin-right:10px;">
-        <iframe width="360" height="240" src="https://www.youtube.com/embed/fcC7243f1eo" frameborder="0" allowfullscreen></iframe>
-        <figcaption>볼륨 검출 기반 AR 공간 영상</figcaption></div>
+        <iframe width="360" height="240" src="https://www.youtube.com/embed/m6cB9C7nKsw" frameborder="0" allowfullscreen></iframe>
+        <figcaption>국제학회 ISMAR 데모 영상</figcaption></div>
     <div class="text-center text-bold" style="border:4px outset clear; display:inline-block; margin-right:10px;">
         <iframe width="360" height="240" src="https://www.youtube.com/embed/thdIbGphfOk" frameborder="0" allowfullscreen></iframe>
         <figcaption>AR 공간을 기반으로 한 게임 콘텐츠 구현 영상</figcaption></div>
