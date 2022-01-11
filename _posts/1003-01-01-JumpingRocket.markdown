@@ -38,6 +38,9 @@ portfolio-type:
 
 <h4 class="text-bold text-center">⦁ 소개 ⦁</h4>
 점핑 로켓은 ‘(주)퍼니이브’사의  캐릭터 ‘휴대폰 소녀 밈’이 그네를 타고 날아가 여행하는 이야기를 담은 캐주얼 게임입니다.<br>
+게임은 빠르게 회전하는 그네에 로켓을 장착한 밈이 도시를 비행하며 진행합니다.<br>
+밈은 여러 도시를 여행하며 랜드마크를 관광하고, 특산품을 수집하며 여행의 추억을 쌓아갑니다<br>
+그네&로켓의 업그레이드, 다양한 능력의 펫, 수집 요소 버프를 통해 더욱 멀리 날아가며 여행할 수 있습니다<br>
 <br>
 <div class="text-center">
     <div class="text-center text-bold" style="height:500px; border:4px; display:inline-block; margin-right:5px; padding:5px;">
@@ -78,7 +81,9 @@ portfolio-type:
 
 
 <h4 class="text-bold text-center">⦁ 배운 점 & 느낀 점 ⦁</h4>
-협업을 위한 방법, 향후 업데이트를 위한 자동화, 다양한 3rd Party Library를 활용하는 경험을 했던 소중한 시간이었습니다.<br>
+디자인&기획 팀과 협업을 하며, 협업을 위한 의사소통 방법을 터득했습니다.<br>
+또한 체계화된 프로젝트 확장 및 배포를 위해, 유지보수가 용이하고 자동화된 코드를 설계하는 방법을 고민해볼 수 있었습니다<br>
+이 과정에서 다양한 3rd Party Library를 활용하는 경험을 했던 소중한 시간이었습니다.<br>
 
 
 <br><br>
