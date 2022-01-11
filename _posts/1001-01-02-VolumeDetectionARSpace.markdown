@@ -21,7 +21,11 @@ portfolio-type:
 ⯀ 프로젝트 링크: <a href = "https://github.com/wis1906/cuboid-volume-ar-space" target = "parent" >[깃허브 레포지토리]</a>
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h4 class="text-bold text-center">- 소개 -</h4>
+
+<hr width="100%" color="white" size="3" align="center">
+
+
+<h4 class="text-bold text-center">⦁ 소개 ⦁</h4>
 증강현실 공간을 구축하기 위해서는 점군, 오브젝트, 평면 등 실제 공간의 유의미한 인식 과정이 필요합니다.<br>
 기존의 실내 공간 인식 방법은 철저하게 관측 가능한 공간에 대해서만 평면 검출이 가능하며, 밀도와 노이즈의 변화에 민감합니다.<br>
 이는 증강현실이 활용되는 실내 공간의 특성을 이해하여 극복할 수 있습니다.<br>
@@ -39,10 +43,13 @@ portfolio-type:
 본 연구 프로그램은 직육면체 방 형태의 실내 공간에서 점군 데이터 기반 직육면체 볼륨 검출을 통해 빠르고 정확하게 AR 게임 공간을 구성하는 방법을 제안합니다.<br>
 제안 방법은 기존의 평면 검출 알고리즘에서 벗어나 Oriented Bounding Box (OBB) 검출 방법을 기반으로 한 Top-Down 방식을 활용합니다.<br>
 또한, 공간 인식의 효율을 극대화하고 표현의 자유도를 높이기 위해 구면 파노라마 비디오를 기반으로 합니다.<br>
+
+
 <br><br>
+<hr width="100%" color="white" size="3" align="center">
 
 
-<h4 class="text-bold text-center">- 성과 -</h4>
+<h4 class="text-bold text-center">⦁ 성과 ⦁</h4>
 <div class="text-center">
 	<div class="text-center text-bold" style="height:400px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
 		<img class="scalezoom_big" src="/assets/images/blog/VolumeDetectionARSpace/reward_paper_ismar.jpg" alt="국제학회 ISMAR 논문 개체" height="85%">
@@ -62,10 +69,13 @@ portfolio-type:
 ⯀ 2021년도 한국게임학회 학술지에 '실내 환경에서 직육면체 검출을 통한 AR 게임 공간 구성'에 대한 논문 게재<br>
 ⯀ 2021년도 한국게임학회 춘계학술발표대회에 '실내 구면 파노라마에서의 볼륨 검출을 통한 AR 게임 공간 구성'에 대한 논문 게재<br>
 ⯀ 2021년도 한국게임학회 춘계학술발표대회에서 우수논문상 수상<br>
+
+
 <br><br>
+<hr width="100%" color="white" size="3" align="center">
 
 
-<h4 class="text-bold text-center">- 상세 설명 -</h4>
+<h4 class="text-bold text-center">⦁ 상세 설명 ⦁</h4>
 <div class="text-center">
     <div class="text-center text-bold" style="height:400px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
         <img class="scalezoom_small" src="/assets/images/blog/VolumeDetectionARSpace/detail_pipeline_volume.png" alt="볼륨 검출 과정 파이프라인" height="85%">
@@ -90,10 +100,13 @@ portfolio-type:
     <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002771179" class="btn btn-xs btn-primary">한국게임학회 학술지 논문 보기</a>
 	<a href="/assets/images/blog/VolumeDetectionARSpace/paper_kcgsc.pdf" class="btn btn-xs btn-primary">한국게임학회 춘계학술발표대회 논문 보기</a>
 </div>
+
+
 <br><br>
+<hr width="100%" color="white" size="3" align="center">
 
 
-<h4 class="text-bold text-center">- 참고 영상 -</h4>
+<h4 class="text-bold text-center">⦁ 참고 영상 ⦁</h4>
 <div class="text-center">
     <div class="text-center text-bold" style="border:4px outset clear; display:inline-block; margin-right:10px;">
         <iframe width="360" height="240" src="https://www.youtube.com/embed/m6cB9C7nKsw" frameborder="0" allowfullscreen></iframe>

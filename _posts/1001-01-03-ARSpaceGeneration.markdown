@@ -21,8 +21,12 @@ portfolio-type:
 ⯀ 프로젝트 링크: <a href = "https://github.com/wis1906/letsgo-ar-space-generation" target = "parent" >[깃허브 레포지토리]</a>
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h4 class="text-bold text-center">- 소개 -</h4>
 
+
+<hr width="100%" color="white" size="3" align="center">
+
+
+<h4 class="text-bold text-center">⦁ 소개 ⦁</h4>
 오늘날의 증강 게임은 더욱 섬세한 상호작용과 시각적 표현을 위해 주변 공간의 구체적인 기하 정보가 필요합니다.<br>
 기존의 실내 공간 인식 방법은 점군의 밀도와 노이즈에 취약하고, 미완성된 기하 정보만을 검출합니다.<br>
 따라서 주요 평면의 완전한 인식이 어렵고, 실세계 속 객체의 부피나 구체적인 영역 등은 파악할 수 없습니다.<br>
@@ -50,10 +54,13 @@ portfolio-type:
 		<figcaption>증강 게임 공간을 기반으로 한 콘텐츠 구현</figcaption></div>
     <div style="clear:both;"></div>
 </div>
+
+
 <br><br>
+<hr width="100%" color="white" size="3" align="center">
 
 
-<h4 class="text-bold text-center">- 성과 -</h4>
+<h4 class="text-bold text-center">⦁ 성과 ⦁</h4>
 <div class="text-center">
     <div class="text-center text-bold" style="height:400px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
         <img class="scalezoom_big" src="/assets/images/blog/ARSpaceGeneration/reward_paper_thesis.png" alt="석사학위논문 제출" height="85%">
@@ -73,10 +80,13 @@ portfolio-type:
 ⯀ 2021년도 한국정보처리학회 추계학술발표대회에 '점군 클러스터링 기반 실내 공간의 다중 개체 영역 검출'에 대한 논문 게재<br>
 ⯀ 2021년도 한국게임학회 추계학술발표대회에 '실내 공간의 장애물 인식을 통한 AR 게임 공간 속 이동 가능 영역 검출'에 대한 논문 게재<br>
 ⯀ 2021년도 한국게임학회 추계학술발표대회에서 우수논문상 수상<br>
+
+
 <br><br>
+<hr width="100%" color="white" size="3" align="center">
 
 
-<h4 class="text-bold text-center">- 상세 설명 -</h4>
+<h4 class="text-bold text-center">⦁ 상세 설명 ⦁</h4>
 <div class="text-center">
     <div class="text-center text-bold" style="height:400px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
         <img class="scalezoom_small" src="/assets/images/blog/ARSpaceGeneration/detail_pipeline_detection.png" alt="실내 기하 검출 과정 파이프라인" height="85%">
@@ -99,10 +109,13 @@ portfolio-type:
     <a href="/assets/images/blog/ARSpaceGeneration/paper_kipscf.pdf" class="btn btn-xs btn-primary">한국정보처리학회 논문 보기</a>
     <a href="/assets/images/blog/ARSpaceGeneration/paper_kcgscf.pdf" class="btn btn-xs btn-primary">한국게임학회 논문 보기</a>
 </div>
+
+
 <br><br>
+<hr width="100%" color="white" size="3" align="center">
 
 
-<h4 class="text-bold text-center">- 참고 영상 -</h4>
+<h4 class="text-bold text-center">⦁ 참고 영상 ⦁</h4>
 <div class="text-center">
     <div class="text-center text-bold" style="border:4px outset clear; display:inline-block; margin-right:10px;">
         <iframe width="360" height="240" src="https://www.youtube.com/embed/1cy6iVrJ-ys" frameborder="0" allowfullscreen></iframe>

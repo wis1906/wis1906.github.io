@@ -21,7 +21,11 @@ portfolio-type:
 ⯀ 프로젝트 링크: <a href = "https://github.com/wis1906/spherical-fps" target = "parent" >[깃허브 레포지토리]</a>
 <br><br><br><br><br>
 
-<h4 class="text-bold text-center">- 소개 -</h4>
+
+<hr width="100%" color="white" size="3" align="center">
+
+
+<h4 class="text-bold text-center">⦁ 소개 ⦁</h4>
 구면 영상을 활용하는 게임 공간은 사용자에게 극대화된 현실감을 줄 수 있습니다.<br>
 FPS 게임은 높은 몰입감과 현실감이 중요한 게임 장르입니다.<br>
 구면 영상을 활용한 배경 공간은 현실감을 강조하는 FPS 게임에 적합한 기술입니다.<br>
@@ -36,10 +40,13 @@ FPS 게임은 높은 몰입감과 현실감이 중요한 게임 장르입니다.
 본 연구 프로그램은 구면 파노라마를 활용한 배경 공간을 배경으로 하는 FPS 게임에서 질감을 고려하여 역동적인 충돌 효과음을 생성하는 방법을 제안합니다.<br>
 제안 방법은 깊이맵을 통해 공간감을 형성하고, 총알의 충돌 지점 주변 재질을 분석하여 역동적인 충돌 효과음을 생성합니다.<br>
 제안 방법을 구면 공간을 사용하는 FPS 게임에 적용하여 실험한 결과 다양한 충돌 효과음을 효과적으로 생성됨을 보였습니다.<br>
+
+
 <br><br>
+<hr width="100%" color="white" size="3" align="center">
 
 
-<h4 class="text-bold text-center">- 성과 -</h4>
+<h4 class="text-bold text-center">⦁ 성과 ⦁</h4>
 <div class="text-center">
     <div class="text-center text-bold" style="height:400px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
         <img class="scalezoom_big" src="/assets/images/blog/AutoTextureRecogFPS/reward_paper.jpg" alt="한국게임학회 논문 게재" height="85%">
@@ -51,10 +58,13 @@ FPS 게임은 높은 몰입감과 현실감이 중요한 게임 장르입니다.
 </div>
 ⯀ 2020년도 한국게임학회 추계학술발표대회에 '구면 파노라마 배경의 FPS 게임에서의 질감을 고려한 효과음 생성'에 대한 논문 게재<br>
 ⯀ 2020년도 한국게임학회 추계학술발표대회에서 우수발표상(넥슨코리아상) 수상<br>
+
+
 <br><br>
+<hr width="100%" color="white" size="3" align="center">
 
 
-<h4 class="text-bold text-center">- 상세 설명 -</h4>
+<h4 class="text-bold text-center">⦁ 상세 설명 ⦁</h4>
 <div class="text-center">
     <div class="text-center text-bold" style="height:300px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
         <img class="scalezoom_small" src="/assets/images/blog/AutoTextureRecogFPS/intro_lbp.png" alt="LBP의 원리 소개" height="85%">
@@ -73,10 +83,13 @@ FPS 게임은 높은 몰입감과 현실감이 중요한 게임 장르입니다.
 <div class="text-center">
     <a href="/assets/images/blog/AutoTextureRecogFPS/paper.pdf" class="btn btn-xs btn-primary">논문 원문 보기</a>
 </div>
+
+
 <br><br>
+<hr width="100%" color="white" size="3" align="center">
 
 
-<h4 class="text-bold text-center">- 참고 영상 -</h4>
+<h4 class="text-bold text-center">⦁ 참고 영상 ⦁</h4>
 <div class="text-center">
     <div class="text-center text-bold" style="border:4px outset clear; display:inline-block; margin-right:10px;">
         <iframe width="540" height="320" src="https://www.youtube.com/embed/y3ajHxs-sT8" frameborder="0" allowfullscreen></iframe>

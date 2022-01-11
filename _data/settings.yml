@@ -98,7 +98,7 @@ team:
 skills-title: Skills
 skills:
 - {name: Unity Engine, color: '#4169e1', value: '90%'}
-- {name: Unreal Engine, color: '#39383f', value: '60%'}
+- {name: Unreal Engine, color: '#39383f', value: '70%'}
 - {name: C++, color: '#98f375', value: '80%'}
 - {name: C, color: '#efef51', value: '70%'}
 - {name: C Sharp, color: '#6f11f6', value: '60%'}
@@ -112,14 +112,14 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Task Force Team, icon: 'incheon_edu.jpg', date: '2020.10 - 2021.12', organization: '인천광역시 교육청 사이버 진로 교육원',
-detail: '2020년 인천광역시 교육청 사이버진로교육원에 T/F 팀 위원으로 초청되었습니다. `체험형 게임 개발 분과`로 배정받아, 게임 개발의 전문 지식을 바탕으로 수행하는 업무들을 담당하였습니다.'}
 - {name: 게임 개발 협업, icon: 'funnyeve.jpg', date: '2020.07 - 2021.12', organization: 'Funnyeve',
 detail: '인지도가 높은 캐릭터를 보유한 회사와 협업 계약을 맺고 모바일게임 공동 개발을 수행하였습니다. 저는 `기획, 프로그래밍` 업무를 담당하였고, 회사는 `기획, 디자인, 유통` 업무를 담당하였습니다.'}
-- {name: ECL, icon: 'icon-3.png', date: '2020.03 - 2022.02', organization: '인천대학교 대학원',
-detail: '석사 과정동안 Entertainment Computing Lab에서 연구하며 AR과 VR에 대한 심도 있는 공부를 수행하였습니다. 이 과정에서 기저 이론을 기반으로 한 많은 논문을 개제하였습니다.'}
 - {name: To Ocean Deep 1인 개발, icon: 'to_ocean_deep.png', date: '2018.01 - 2018.12', organization: 'Cisdom',
 detail: '오픈 월드 RPG 투 오션 딥(To Ocean Deep)을 개발하여 출시했습니다. 기획, 개발, 디자인을 포함한 모든 작업은 직접 수행하였습니다.'}
+- {name: Task Force Team, icon: 'incheon_edu.jpg', date: '2020.10 - 2021.12', organization: '인천광역시 교육청 사이버 진로 교육원',
+detail: '2020년 인천광역시 교육청 사이버진로교육원에 T/F 팀 위원으로 초청되었습니다. `체험형 게임 개발 분과`로 배정받아, 게임 개발의 지식을 바탕으로 수행하는 업무들을 담당하였습니다.'}
+- {name: ECL, icon: 'icon-3.png', date: '2020.03 - 2022.02', organization: '인천대학교 대학원',
+detail: '석사 과정동안 Entertainment Computing Lab에서 연구하며 AR과 VR에 대한 심도 있는 공부를 수행하였습니다. 이 과정에서 기저 이론을 기반으로 한 많은 논문을 개제하였습니다.'}
 - {name: ENSA, icon: 'icon-3.png', date: '2017.03 - 2017.09', organization: '인천대학교',
 detail: '학부 과정 중 Embedded Network System Architecture Lab에서 네트워크의 심화 과정을 배우고, 다양한 프로젝트에 참여해 수행하였습니다.'}
 
