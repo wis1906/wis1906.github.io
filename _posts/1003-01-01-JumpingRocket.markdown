@@ -6,7 +6,7 @@ image:  /assets/images/blog/ToOceanDeep/title.png
 author: K.S. KIM
 tags:   협업 개발
 portfolio-type:
-    - type: "one person development"
+    - type: "multi person development"
 ---
 
 <h4 class="text-bold">휴대폰 소녀 밈의 좌충우돌 비행 캐주얼 게임</h4>
