@@ -1,25 +1,23 @@
 ---
 layout: post
-title:  투 오션 딥(To Ocean Deep)
-period:   2018.01 - 2018.12
+title:  점핑 로켓(Jumping Rocket)
+period:   2020.07 - 2021.12
 image:  /assets/images/blog/ToOceanDeep/title.png
 author: K.S. KIM
-tags:   1인 개발
+tags:   협업 개발
 portfolio-type:
     - type: "one person development"
 ---
 
-<h4 class="text-bold">아름다운 바다를 담은 오픈 월드 RPG</h4>
+<h4 class="text-bold">휴대폰 소녀 밈의 좌충우돌 비행 캐주얼 게임</h4>
 
-⯀ 프로젝트명: 투 오션 딥(To Ocean Deep)<br>
-⯀ 개발 인원: 1인 개발<br>
-⯀ 장르: 오픈 월드 RPG<br>
-⯀ 플랫폼: Android<br>
-⯀ 개발 기간: 2018.01 - 2018.12<br>
-⯀ 개발 환경: Unity Engine, C# / 3ds Max, Gimp2<br>
-⯀ 소스 공개 여부: X(현재 상용화중)<br>
-⯀ 프로젝트 링크:
-<a href = "https://play.google.com/store/apps/details?id=com.cisdom.oceandeep&hl=ko" target = "parent" >[구글플레이]</a> / <a href = "https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000737510&scYn=Y" target = "parent" >[원스토어]</a>
+⯀ 프로젝트명: 점핑 로켓(Jumping Rocket)<br>
+⯀ 개발 인원: 팀 협업 개발<br>
+⯀ 장르: 캐주얼<br>
+⯀ 플랫폼: Android, IOS<br>
+⯀ 개발 기간: 2020.07 - 2021.12<br>
+⯀ 개발 환경: Unity Engine, C# / Gimp2<br>
+⯀ 소스 공개 여부: X(개발 중 인수인계 완료)<br>
 <br><br><br><br><br><br><br>
 
 
