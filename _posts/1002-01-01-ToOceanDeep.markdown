@@ -74,12 +74,6 @@ portfolio-type:
         <img class="scalezoom_big" src="/assets/images/blog/ToOceanDeep/chart_new_popular_1st.png" alt="신규 인기 유료부분 1위" height="85%">
         <figcaption>신규 인기 유료부분 1위</figcaption></div>
     <div class="text-center text-bold" style="height:250px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
-        <img class="scalezoom_big" src="/assets/images/blog/ToOceanDeep/chart_rpg_hot_1st.png" alt="롤플레잉장르 급상승 1위" height="85%">
-        <figcaption>롤플레잉장르 급상승 1위</figcaption></div>
-    <div class="text-center text-bold" style="height:250px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
-        <img class="scalezoom_big" src="/assets/images/blog/ToOceanDeep/chart_all_hot_7st.png" alt="전체장르 급상승 7위" height="85%">
-        <figcaption>전체장르 급상승 7위</figcaption></div>
-    <div class="text-center text-bold" style="height:250px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
         <img class="scalezoom_big" src="/assets/images/blog/ToOceanDeep/chart_rpg_popular_11st.png" alt="롤플레잉 유료차트 11위" height="85%">
         <figcaption>롤플레잉 유료차트 11위</figcaption></div>
     <div class="text-center text-bold" style="height:250px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
@@ -89,8 +83,6 @@ portfolio-type:
 </div>
 ⯀ 원스토어 전체 인기 유료 2위<br>
 ⯀ 구글플레이 신규 인기 유료부분 1위<br>
-⯀ 구글플레이 롤플레잉장르 급상승 1위<br>
-⯀ 구글플레이 전체장르 급상승 7위<br>
 ⯀ 구글플레이 롤플레잉 유료차트 11위<br>
 ⯀ 구글플레이 전체 인기 유료 83위<br>
 
